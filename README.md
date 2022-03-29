@@ -48,11 +48,6 @@ from utils import *
 import matplotlib.pyplot as plt
 ```
 
-    The autoreload extension is already loaded. To reload it, use:
-      %reload_ext autoreload
-    
-
-
 ```python
 filename = "C:/users/ronakdediya/Desktop/Onchocerciasis/PPT/Data/IM95C2/IIiacCrest/left"
 grayScale, actualvideoTempFrame = getActualVideo(filename)          
