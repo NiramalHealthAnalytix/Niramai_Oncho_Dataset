@@ -105,3 +105,6 @@ This Dataset is licensed under a
 If you use the Niramai Oncho Dataset, ***please cite the following paper***:
 
 > Dedhiya R, Kakileti ST, Deepu G, et al. Evaluation of Non-Invasive Thermal Imaging for detection of Viability of Onchocerciasis worms. Published online 2022. doi:10.48550/ARXIV.2203.12620
+
+## About Niramai ##
+NIRAMAI Health Analytix is a Bangalore-based deep-tech startup addressing critical healthcare problems through automated solutions. NIRAMAI is pioneer in developing a breast cancer screening software that uses machine intelligence over thermography images to enable a low cost, easy to use, portable solution with minimal human supervision.
