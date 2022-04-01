@@ -17,7 +17,7 @@
 * For more details about the study involving thermal imaging, onchocerciasis and evaluation. Refer [Evaluation of Non-Invasive Thermal Imaging for detection of Viability of Onchocerciasis worms](https://arxiv.org/abs/2203.12620)
 
 
-> Niramai Oncho Dataset repository includes Data, Code and groundtruth.xlsx. Dataset description is provided below in detail. For any queries, please mail at contact@niramai.com with subject as *"Niramai Oncho Dataset"*
+> Niramai Oncho Dataset repository includes Data, Code and groundtruth.xlsx. Dataset description is provided below in detail. For any queries, please mail at sivateja@niramai.com with subject as *"Niramai Oncho Dataset"*
 
 **Data Folder:**
 1. It includes following folder directory structure:
